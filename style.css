@@ -1,0 +1,10 @@
+main{
+  font-display : "Poppins",sans-serif;
+}
+
+
+.landing{
+  min-height:100vh;
+  background:url("./back1.jpg");
+  background-size:cover;
+}
